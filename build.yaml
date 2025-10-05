@@ -17,18 +17,18 @@
 #     artifact-name: corne_left_with_logging
 #
 ---
-# include:
-#   - board: nice_nano_v2
-#     shield: lily58_left
-#   - board: nice_nano_v2
-#     shield: lily58_right
-# include:
-#   - board: seeeduino_xiao_nrf52840
-#     shield: lily58_left
-#   - board: seeeduino_xiao_nrf52840
-#     shield: lily58_right
 include:
-  - board: bluemicro840_v1
+  - board: nice_nano_v2
     shield: lily58_left
-  - board: bluemicro840_v1
+  - board: nice_nano_v2
     shield: lily58_right
+# include:
+#   - board: seeeduino_xiao_nrf52840
+#     shield: lily58_left
+#   - board: seeeduino_xiao_nrf52840
+#     shield: lily58_right
+# include:
+#   - board: bluemicro840_v1
+#     shield: lily58_left
+#   - board: bluemicro840_v1
+#     shield: lily58_right
