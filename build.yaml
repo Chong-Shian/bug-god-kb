@@ -28,7 +28,7 @@
 #   - board: seeeduino_xiao_nrf52840
 #     shield: lily58_right
 include:
-  - board: promicro_nrf52840
+  - board: bluemicro840_v1
     shield: lily58_left
-  - board: promicro_nrf52840
+  - board: pbluemicro840_v1
     shield: lily58_right
