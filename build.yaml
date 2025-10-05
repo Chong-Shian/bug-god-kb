@@ -30,5 +30,5 @@
 include:
   - board: bluemicro840_v1
     shield: lily58_left
-  - board: pbluemicro840_v1
+  - board: bluemicro840_v1
     shield: lily58_right
