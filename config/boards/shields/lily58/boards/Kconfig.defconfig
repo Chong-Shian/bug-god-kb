@@ -2,10 +2,5 @@ if SHIELD_LILY58_LEFT
 
 config BT_DEVICE_NAME
     default "Tom_KB_left"
-endif
 
-if SHIELD_LILY58_RIGHT
-
-config BT_DEVICE_NAME
-    default "Tom_KB_right"
 endif
