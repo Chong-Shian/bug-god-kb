@@ -1,3 +1,0 @@
-config BT_DEVICE_NAME
-    default "Tom-KB-L" if SHIELD_LILY58_LEFT
-    default "Tom-KB-R" if SHIELD_LILY58_RIGHT
