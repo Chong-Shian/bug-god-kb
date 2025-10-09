@@ -20,7 +20,5 @@
 include:
   - board: nice_nano_v2
     shield: lily58_left
-    file: config/lily58L.conf
   - board: nice_nano_v2
     shield: lily58_right
-    file: config/lily58R.conf
