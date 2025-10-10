@@ -1,0 +1,19 @@
+if SHIELD_LILY58_LEFT
+
+config BT_DEVICE_NAME
+    default "Tom-KB-L"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_LILY58_RIGHT
+
+config BT_DEVICE_NAME
+    default "Tom-KB-R"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default n
+
+endif
